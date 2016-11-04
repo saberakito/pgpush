@@ -1,0 +1,27 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.pgday.workshop.push"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.pgday.workshop.push"
+        },
+        "phonegap-plugin-push": {
+            "PACKAGE_NAME": "com.pgday.workshop.push"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.pgday.workshop.push"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.pgday.workshop.push"
+        }
+    },
+    "dependent_plugins": {}
+}
